@@ -1,0 +1,9 @@
+﻿Name;SubName;Material;Value;SubValue;Diameter;Thickness;Weight;Color
+EUR;Cent;Metal;0;1;16,25;1,36;2,3;rot
+EUR;Cent;Metal;0;2;18,75;1,36;3;rot
+EUR;Cent;Metal;0;5;21,25;1,36;3,9;rot
+EUR;Cent;Metal;0;10;19,75;1,21;4,1;gelb
+EUR;Cent;Metal;0;20;22,25;1,63;5,7;gelb
+EUR;Cent;Metal;0;50;24,25;1,88;0,8;gelg
+EUR;Cent;Metal;1;0;23,25;2,12;7,5;gelb/weiß
+EUR;Cent;Metal;2;0;25,75;1,95;8,5;gelb/weiß
